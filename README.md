@@ -63,14 +63,14 @@ Created a new department named “Sysadmins” in the osTicket admin panel. This
 </p>
 
 </p>
-<br />
+<br /> 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1381" height="983" alt="image" src="https://github.com/user-attachments/assets/b2049417-a51a-42c3-ae16-3fedcd21564f" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Configured a new team in the osTicket admin panel, grouping agents from different departments to collaborate on specialized support tasks. This screenshot shows the team creation settings, demonstrating how teams enable cross-department collaboration and streamline ticket handling for complex or high-priority issues—improving support efficiency and resource allocation.
 
 </p>
 <br />
