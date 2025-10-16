@@ -55,10 +55,11 @@ Configured a new role titled “Supreme Admin” in the osTicket admin panel. Th
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1378" height="981" alt="image" src="https://github.com/user-attachments/assets/e324e165-1acd-49bc-a19b-f264a4511702" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a new department named “Sysadmins” in the osTicket admin panel. This screenshot shows the department creation interface, illustrating how teams can be organized by function. Structuring support staff into departments like Sysadmins ensures tickets are routed efficiently to specialized groups, improving response times and overall support quality as the organization grows.
 </p>
 
 </p>
