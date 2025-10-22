@@ -98,10 +98,11 @@ Created a new end-user account from the osTicket agent panel. The agent panel is
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1382" height="984" alt="image" src="https://github.com/user-attachments/assets/82352ef2-e7bc-432f-b318-d9a97520ac30" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configured Service Level Agreements (SLAs) in the osTicket admin panel. This screenshot displays the SLA setup screen, where response and resolution deadlines for different ticket priorities are defined. Setting up SLAs helps ensure timely support and improves accountability across the help desk team.
 </p>
 
 </p>
