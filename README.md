@@ -109,8 +109,9 @@ Configured Service Level Agreements (SLAs) in the osTicket admin panel. This scr
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1383" height="981" alt="image" src="https://github.com/user-attachments/assets/84adcde4-e5a4-45ae-979d-8bcf52c01361" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configured help topics in the osTicket admin panel. This screenshot displays the Help Topics setup screen, where common support categories such as hardware issues, password resets, and general inquiries are created. Defining help topics helps organize incoming tickets, ensuring they are routed to the appropriate agents or departments for faster and more efficient resolution.
 </p>
