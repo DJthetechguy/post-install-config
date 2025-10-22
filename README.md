@@ -87,6 +87,17 @@ Here is the agents/users management page in the osTicket admin panel. This scree
 <br />
 
 <p>
+<img width="1382" height="987" alt="image" src="https://github.com/user-attachments/assets/567e8cb0-bba3-4c24-af44-d8a8f52ab587" />
+
+</p>
+<p>
+Created a new end-user account from the osTicket agent panel. The agent panel is used by support staff to handle tickets and manage users, while the admin panel focuses on system configuration, roles, and settings. This screenshot highlights the user creation process available to agents for assisting and managing support requests.
+</p>
+
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
