@@ -18,18 +18,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Familiarize with osTicket panels
-- Configure Roles
-- Create Departments
-- Create Teams
-- Adjust User Settings
-- Add Agents and Users
-- Set SLAs
-- Set Help Topics
+- Understanding Panel Functions
+- Establish User Roles
+- Organize Departments
+- Formulate Teams
+- Configure User Registration Settings
+- Set Up Agent Accounts
+- Create User Accounts For Customers
+- Define Service Level Agreements (SLAs)
 
 <h2>Configuration Steps</h2>
 
